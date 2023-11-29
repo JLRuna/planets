@@ -2,4 +2,5 @@ Project notes for the variant calling workflow
 
 1. Perform QC
 2. Align reads
-3. Variant call
+3. made change on github
+4. Janny Laptop
